@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Prem's homepage
 description: Bookmark this to keep an eye on my project updates!
+navigate: # [About Me](about.html)
+          # [Resume](resume.html)
+          # [Projects](projects.html)
