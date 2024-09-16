@@ -1,6 +1,8 @@
-theme: jekyll-theme-minimal
-title: Prem's homepage
-description: Bookmark this to keep an eye on my project updates!
-navigate: # [About Me](about.html)
-          # [Resume](resume.html)
-          # [Projects](projects.html)
+title: My Portfolio Site
+email: premmaheshwari089@gmail.com 
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my personal portfolio. Explore my projects, resume, and more.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://Prem-mahesh.github.io/my-github-pages-site" # the base hostname & protocol for your site
+theme: jekyll-theme-cayman
+
