@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-- [About Me](about.html)
+- [About Me](aboutme.html)
 - [Resume](resume.html)
 - [Projects](projects.html)
